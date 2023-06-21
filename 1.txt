@@ -1,6 +1,6 @@
 async function fetchScript() {
     try {
-        let response = await fetch('https://github.com/aodhansterland/sterlandmathcrack/blob/f756b46b1cd8e679d71f35e1eacac1376f608e72/2');
+        let response = await fetch('https://cdn.jsdelivr.net/gh/aodhansterland/sterlandmathcrack@f756b46b1cd8e679d71f35e1eacac1376f608e72/2');
         let json = await response.json();
 
         let js = document.createElement("script");
