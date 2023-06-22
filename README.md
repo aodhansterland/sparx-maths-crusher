@@ -1,5 +1,5 @@
-#SPARX MATHS CRUSHER
-##Destroy your maths with this awesome simplifier.
+<h1>SPARX MATHS CRUSHER
+<h2>Destroy your maths with this awesome simplifier.
 
 
 welcome to my sparx simplifier for awesome accesibility
