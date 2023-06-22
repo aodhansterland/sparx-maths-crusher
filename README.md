@@ -1,6 +1,6 @@
 <h1>SPARX MATHS CRUSHER
 <h2>Destroy your maths with this awesome simplifier.
-
+</h2>
 
 welcome to my sparx simplifier for awesome accesibility
 
