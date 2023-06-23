@@ -1,6 +1,10 @@
 <h1>SPARX MATHS CRUSHER
 <h2>Destroy your maths with this awesome simplifier.
 </h2>
+TIRED OF SOUL CRUSHING MATHS?
+WANT IT GONE?
+TIRED OF TEACHERS DRONING ON ABOUT MATHS
+
 
 welcome to my sparx simplifier for awesome accesibility
 
