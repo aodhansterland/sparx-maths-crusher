@@ -21,10 +21,10 @@ const themes = {
     },
 
     3: {
-        'darkest': '#241E92',
-        'dark':  '#5432D3',
-        'light':  '#7B6CF6',
-        'lightest': '#E5A5FF',
+        'darkest': '#ffffff',
+        'dark':  '#ffffff',
+        'light':  '#ebebeb',
+        'lightest': '#fae5e3'
     },
 
     4: {
