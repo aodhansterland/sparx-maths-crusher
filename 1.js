@@ -69,11 +69,7 @@ const themes = {
         'lightest': '#3a093c',
     },
 	
-    10: {
-       'darkest': '#ffffff',
-       'dark':  '#ffffff',
-       'light':  '#ebebeb',
-       'lightest': '#fae5e3',
+
     }
 }
 
