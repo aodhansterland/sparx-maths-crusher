@@ -66,8 +66,15 @@ const themes = {
         'darkest': '#1a001c',
         'dark':  '#250327',
         'light':  '#2f0631',
-        'lightest': '#3a093c',
+        'lightest': '#3a093c
     }
+
+    10: {
+       'darkest': '#00000',
+       'dark':  '#250327',
+       'light':  '#2f0631',
+       'lightest': '#3a093c',
+	
 }
 
 const themeStyles = '.themes-container{display:flex;align-items:center;justify-content:center;flex-direction:column;width:500px}.themes-container ul{border:2px solid #fff;padding:0;display:flex;flex-direction:column;width:100%}.themes-container ul li{list-style-type:none;display:flex;flex-direction:row}.themes-container ul li div{background-color:orange;height:50px;width:25%}.themes-container ul li:hover{cursor:pointer;filter:brightness(80%)}@media (max-width: 1000px){.themes-container{width:60vw}}';
