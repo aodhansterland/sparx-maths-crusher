@@ -72,9 +72,28 @@ const themes = {
 	
      10: {
         'darkest': '#000000',
-        'dark':  '#250327',
-        'light':  '#2f0631',
-        'lightest': '#3a093c',
+        'dark':  '#262626',
+        'light':  '#ffffff',
+        'lightest': '#616161',
+     },
+	
+     11: {
+        'darkest': '#69a2ff',
+        'dark':  '#5181cf',
+        'light':  '#2f5a9e',
+        'lightest': '#0c439c',
+     },
+
+     12: {
+	   'darkest': '#363636',
+	   'dark':  '#3c6942',
+	    'light':  '#27a137',
+	    'lightest': '#00ff22',
+	    },
+
+
+
+	
     }
 }
 
